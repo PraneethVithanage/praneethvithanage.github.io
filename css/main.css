@@ -1,0 +1,216 @@
+*{margin : 0 ; padding: 0 ;}
+a{text-decoration: none;}
+.clearfix{overflow: auto}
+.wrapper{	margin: 0 auto;
+	width: 1350px;
+}
+
+.top-bar{
+	width: :1000px;
+	background: maroon;
+	background:url(../images/late-night-working-man-using-laptop-in-the-dark_biwuqlz7l_thumbnail-full01.png);
+}
+.top-bar-links{
+	float: left;
+}
+.top-bar-links ul{
+	margin :70px;
+	list-style: none;
+}
+.top-bar-links ul h2  {
+     font-size: 28px;
+     padding: 0 150px;
+     
+	display: inline-block;
+}
+.top-bar-links ul h3  {
+     padding: 0 150px;
+
+      
+	display: inline-block;
+}
+.top-bar-links ul h2 {
+
+	color: white;
+}
+.top-bar-links ul h3 {
+
+	color: white;}
+.site-search{
+	padding: 2px 3px 1px 10px;
+	margin :50px;
+	float: right;
+	background: white;
+	border-radius: 10px;
+
+
+}
+.site-search input {
+border: none;
+float: left;
+}
+.site-search button  {
+	float: right;
+width: 25px;
+height: 25px;
+background:url(../images/2-search-icon-red-large.jpg);
+border: none;
+}
+
+nav{
+	background: #000;
+	text-align: center;
+    margin-top: 1px;
+   border-radius: 5px;
+
+}
+nav ul{
+	list-style: none;
+    
+}
+nav ul li{
+	display: inline;
+
+}
+nav ul li a{
+	
+
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 10px;margin-bottom:10px;
+	margin-right: 30px;  margin-left: 30px;
+    display:inline-block;
+
+}
+
+nav ul li a:hover{
+	color: red;
+
+}
+div.intro{
+	width: 1000px;
+	margin-left: 200px;
+	margin-top: 65px
+
+}
+div.intro div.introimage{
+	width: 525px;
+    float: left;
+}
+div.intro  div.introtext{
+	width: 400px;
+	float: right ;
+
+
+}
+div.intro h2{
+	
+	font-size: 30px;
+text-transform: uppercase;
+text-align: center;
+font-weight: normal;
+
+}
+div.intro p{
+
+	margin-top: 5px;
+	font-size: 18px;
+    
+
+}
+div.intro a{
+	text-transform: uppercase;
+	color: red;
+	float :right;
+}
+div.homecontent{
+	width: 1400px;
+	margin-top: 100px;
+	margin-left:200px;
+}   
+div.home-col{
+	
+	width: 313.33px;
+	height: 470px;
+
+     float:left;
+	background:#ffdab3;
+
+}
+div.homecontent div.home-col div.himages {
+	margin:10px;
+	margin-top: 15px;
+	}
+
+	div.homecontent div.home-col p{
+		margin :10px;
+		width:310px;
+		margin-top: 15px;
+	}
+
+	div.homecontent div.home-col div.himages2 {
+	margin:40px;
+	margin-top: 0px;
+	float: left
+	
+	}
+	div.homecontent div.home-col div.siv p {
+		width:200;
+		 float:left;
+
+		}
+	div.homecontent div.home-col div.Areas img{
+		width: 64px;
+		float:left;
+		margin-right: 15px;
+		margin-left: 15px;
+		margin-top: : 15px;
+	}
+   
+	div.homecontent div.home-col div.Areas p{
+	margin-top: 0;
+	
+	}
+	
+
+div.homecontent div.home-col div.next  p{
+margin: 30;
+width: 280px;
+}
+
+footer{
+	width:1550px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+
+}
+div.footercol{
+	width:231;
+	float:left;
+	margin-left: 80px;
+	border-top: 1px  solid #000;
+
+}
+div.footercol h4{
+	text-transform: uppercase;
+	margin-top: 15px;
+}
+
+form.contact input,form.contact textarea{
+	background: #eee;
+	margin: 5px;
+	padding: 5px;
+	width: 20;
+	font-family: inherit;
+     border-radius: 5px;
+	background: #fff; 
+
+}
+form.contact button{
+	background: #eee;
+	
+	margin-left: 5px;
+	font-size: 16px;
+	font-family: inherit;
+	padding: 8px 15px;
+}
